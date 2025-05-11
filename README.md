@@ -67,3 +67,6 @@ This project is open-source and available under the MIT License.
 Feel free to fork this repository and create pull requests! Whether it's improving the summarization quality or adding new features like multilingual support or Word document upload, your contributions are welcome!
 
 😎 Screenshots:
+
+![image](https://github.com/user-attachments/assets/1b5aab87-8201-4f27-ace2-47c88fbb1588)
+
